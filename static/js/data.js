@@ -1,0 +1,1 @@
+export const data =[[{"fishname":"largemouth bass","probability":0.9600069523,"time":"1.228s"},{"fishname":"smallmouth bass","probability":0.0399930999,"time":"1.228s"}]];export default data;

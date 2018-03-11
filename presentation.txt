@@ -1,0 +1,38 @@
+Introduction - Personalize (My experience ecologist) (two sentences)
+I had the opportunity to have work with ecologiest when I was completing my Science degree.
+//I was fortunate to have work with ecologiest when I was completing my Science degree.
+
+Challenge - 
+One common task in their field was to watch a video recording spanning days.
+Imagine staring at a screen of empty water for hours waiting for a fish to show up. Fish was exciting. Nothing was not.
+It was like watching paint to dry.
+
+Goal -
+Our goal is to help scientist by tuning out the mundane work and let their highly professional mind do more meaningful task in their research
+
+(TIME - 1Min)
+
+How - 
+-Tab into a pre-existing social network for anglers (i.e. ReelSonar) to collect high quality data.
+-The role of our AI would be to make sure the fish is identified correctly, thereby increasing the accuracy of the related data collected, such as geotag, season, or weather.
+-Such data would provide a meaningful representation of the ecosystem that the researchers can use.
+-The longterm gain is to implement our technology in different data collection methods, such as a video stream, to better help the scientists.
+
+Solution - (que demo)
+SeeFish - the fish recognition system
+    Current state -
+    - work with still shot
+    - tells you the fish and the confidence level 
+    - Any associated data will be collected accurately.
+
+(TIME - 2Min)
+
+    End goal -
+    - Work with video stream.
+    - Not only recognize fish, but also note the time, and even perform statistical analysis.
+    - Let scientist work less but do more.
+
+Conlusion - 
+We at SeeFish aims to help the scientist by automating the mundane work and allowing the scientist to focus on the action.
+
+(TIME - ~2.5 Min)
