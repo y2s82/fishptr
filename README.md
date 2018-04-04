@@ -1,7 +1,7 @@
 # fishptr
 A project for fishackathon 2018
 
-by Tony, Robert, Oleksii, Ina, and Jerry
+by Tony, Robert, Oleksii, Inna, and Jerry
 
 This team project was inspired by fishackathon 2018 challenges and was submitted as a contestent.
 
